@@ -1,0 +1,4 @@
+﻿  main_main.c
+c:\users\user\desktop\과제\데베_프로젝트\db_lab\db_lab\main_main.c(273): warning C4101: 'vdate' :참조되지 않은 지역 변수입니다.
+  DB_LAB.vcxproj -> C:\Users\user\Desktop\과제\데베_프로젝트\DB_LAB\Debug\DB_LAB.exe
+  DB_LAB.vcxproj -> C:\Users\user\Desktop\과제\데베_프로젝트\DB_LAB\Debug\DB_LAB.pdb (Full PDB)
